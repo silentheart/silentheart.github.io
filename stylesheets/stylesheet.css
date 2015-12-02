@@ -14,7 +14,7 @@
 
 .greenLine {
 	background-color: rgba(120,157, 45,1);
-	height: 10px;
+	height: 40px;
 	width: 100%;
 }
 
@@ -94,7 +94,7 @@ h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-h3, p  {
+h3, p , a {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	margin-left: 10%;
 }
