@@ -94,9 +94,14 @@ h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-h3, p , a {
+h3, p  {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	margin-left: 10%;
+}
+
+a {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
 }
 
 /*Color scheme for website*/
