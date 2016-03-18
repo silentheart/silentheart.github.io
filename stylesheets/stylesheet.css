@@ -6,9 +6,10 @@
 
 #bodyContainer {
 	background-color: rgba(240, 240, 240, 1);
-	width: 70%;
-	min-height: 1000px;
-	height: 3500px;
+	width: 80%;
+	height: auto;
+	overflow: auto;
+	/*min-height: 1000px;*/
 	margin-top: 40px;
 }
 
@@ -83,7 +84,7 @@
 }
 
 h1 {
-	margin-left: 47%;
+	text-align: center;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
