@@ -83,6 +83,21 @@
 	margin-top: 3px;
 }
 
+.projectImgContainer {
+	width: 32%;
+	float: left;
+	/*margin-right: 1%;*/
+	margin-left: 1%;
+    /*box-shadow: 10px 10px 5px #888888;*/
+}
+
+.projectImgText {
+	width: 100%;
+	height: 40px;
+	background-color: 255 255 255 .5;
+	float: left;
+}
+
 h1 {
 	text-align: center;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -128,8 +143,9 @@ a:active {
   unicode-bidi:bidi-override;
   direction: rtl;
   color: white;
-  margin-top: -40px;
-  padding-left: 50px;
+  margin-top: -27px;
+  padding-left: 0px;
+  margin-left: -5%;
   float: left;
 }
 
