@@ -73,6 +73,8 @@
 	float: left;
 	margin-left: 1%;
 	margin-top: 3px;
+	margin-bottom: 13px;
+    box-shadow: -5px 5px 5px #888888;
 }
 
 .imgFormatSmall {
@@ -81,21 +83,24 @@
 	float: left;
 	margin-left: 1%;
 	margin-top: 3px;
+	margin-bottom: 13px;
+    box-shadow: -5px 5px 5px #888888;
 }
 
 .projectImgContainer {
 	width: 32%;
 	float: left;
-	/*margin-right: 1%;*/
 	margin-left: 1%;
-    /*box-shadow: 10px 10px 5px #888888;*/
+	margin-bottom: 13px;
+    box-shadow: -5px 5px 5px #888888;
 }
 
 .projectImgText {
 	width: 100%;
-	height: 40px;
+	height: auto;
 	padding-left: -7%;
 	margin-top: -15px;
+	margin-bottom: -10px;
 	float: left;
 }
 
