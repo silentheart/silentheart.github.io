@@ -78,6 +78,17 @@
     box-shadow: -5px 5px 5px #888888;
 }
 
+.imgFormatMid {
+	width: 49%;
+	height: auto;
+	float: left;
+	margin-left: 1%;
+	margin-top: 3px;
+	margin-bottom: 13px;
+	padding-top: 5px;
+    box-shadow: -5px 5px 5px #888888;
+}
+
 .imgFormatSmall {
 	width: 24%;
 	height: auto;
