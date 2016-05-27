@@ -71,7 +71,7 @@
 .imgFormatMain {
 	width: auto;
 	height: auto;
-	float: left;
+	/*float: left;*/
 	margin-left: 1%;
 	margin-top: 3px;
 	margin-bottom: 13px;
