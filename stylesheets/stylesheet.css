@@ -98,6 +98,7 @@
 	margin-bottom: 13px;
     box-shadow: -5px 5px 5px #888888;
 	min-height: 120px;
+	min-width: 100px;
 }
 
 .projectImgContainer {
