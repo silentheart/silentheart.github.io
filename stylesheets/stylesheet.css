@@ -163,7 +163,7 @@ a:active {
 .email{
   unicode-bidi:bidi-override;
   direction: rtl;
-  color: white;
+  color: black;
   margin-top: -27px;
   padding-left: 0px;
   margin-left: -5%;
