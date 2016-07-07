@@ -2,10 +2,11 @@
 	width: 100%; 
 	background-size: 100%;
 	background-color: rgba(50, 50, 50, 1);
+    background-attachment: fixed;
 }
 
 #bodyContainer {
-	background-color: rgba(240, 240, 240, 1);
+	background-color: rgba(240, 240, 240, .85);
 	width: 80%;
 	height: auto;
 	overflow: auto;
