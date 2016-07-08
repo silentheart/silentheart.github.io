@@ -1,11 +1,11 @@
 #mainBackground {
-	background-color: rgba(50, 50, 50, 1);
-	width: 100%;
-	height: 100%;
+	width: 100%; 
+	background-size: 100%;
+    background-attachment: fixed;
 }
 
 #bodyContainer {
-	background-color: rgba(240, 240, 240, 1);
+	background-color: rgba(240, 240, 240, .85);
 	width: 80%;
 	height: auto;
 	overflow: auto;
@@ -39,7 +39,7 @@
 	width: 25%;
 	text-align: center;
 	float: left;
-	padding-top: 7px;
+	padding-top: 5px;
 	color: white;
 }
 
@@ -163,7 +163,7 @@ a:active {
 .email{
   unicode-bidi:bidi-override;
   direction: rtl;
-  color: white;
+  color: black;
   margin-top: -27px;
   padding-left: 0px;
   margin-left: -5%;
@@ -172,9 +172,10 @@ a:active {
 
 .socialMedia {
 	float: right;
-	margin-top: -47px;
+	margin-top: -48px;
 	padding-top: none;
-	padding-right: 20px;
+	padding-right: 12px;
+	/*border: 1px solid rgba(204, 86, 86,1);*/ /*Figure out why SM isn't working*/
 }
 
 /*Color scheme for website*/
